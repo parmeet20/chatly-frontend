@@ -100,6 +100,12 @@ Built as a **Single Page Application (SPA)** using **Next.js 16 App Router**.
 ## 🏠 Login Page
 
 <p align="center">
+  <img width="1901" height="1080" alt="image" src="https://github.com/user-attachments/assets/c72105db-6ea4-4735-8fcf-349bc7851986" width="800"/>
+  <br>
+  <em>Home Page</em>
+</p>
+
+<p align="center">
   <img src="./public/screenshots/login.jpg" width="800">
   <br>
   <em>Secure authentication interface</em>
